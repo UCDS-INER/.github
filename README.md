@@ -3,7 +3,7 @@
 
 Bienvenidos al repositorio oficial de la **Unidad de Ciencia de Datos en Salud del INER**. Aquí encontrarás la documentación de los trabajos realizados por nuestra unidad, papers publicados y cursos diseñados especialmente para nuestros colaboradores.
 
-![Logo del INER]((https://datos.gob.mx/busca/dataset/oficios-y-documentos-institucionales-de-iner)
+![Logo del INER](https://datos.gob.mx/busca/dataset/oficios-y-documentos-institucionales-de-iner)
 
 ## 📚 Documentación
 
