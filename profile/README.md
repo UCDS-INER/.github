@@ -8,25 +8,8 @@ Bienvenidos al repositorio oficial de la **Unidad de Ciencia de Datos en Salud d
 
 La documentación de los proyectos que hemos llevado a cabo es esencial para mantener la transparencia y el entendimiento de nuestros procesos. Aquí podrás encontrar desde metodologías hasta resultados finales.
 
-- [Link a Documentación de Proyecto 1](#)
-- [Link a Documentación de Proyecto 2](#)
+- [Mineria ECE](#)
 - ... 
-
-## 📖 Papers Publicados
-
-Nos enorgullece compartir con la comunidad científica y el público en general los papers que hemos publicado a lo largo de nuestra trayectoria:
-
-- ["Título del Paper 1"](URL_DEL_PAPER_1)
-- ["Título del Paper 2"](URL_DEL_PAPER_2)
-- ... 
-
-## 🎓 Cursos para Colaboradores
-
-Estamos comprometidos con la formación continua de nuestros colaboradores. Aquí encontrarás una serie de cursos diseñados para potenciar sus habilidades en ciencia de datos:
-
-- [Curso de Introducción a la Ciencia de Datos](#)
-- [Curso Avanzado de Machine Learning en Salud](#)
-- ...
 
 ## 🤝 Colabora con Nosotros
 
