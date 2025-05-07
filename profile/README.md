@@ -13,7 +13,7 @@ La documentación de los proyectos que hemos llevado a cabo es esencial para man
 
 ## 🤝 Colabora con Nosotros
 
-Si estás interesado en colaborar con nuestra unidad o tienes alguna propuesta, no dudes en contactarnos a través de [nuestro correo](mailto:digitransiner@gmail.com)
+Si estás interesado en colaborar con nuestra unidad o tienes alguna propuesta, no dudes en contactarnos a través de [nuestro correo](mailto:cienciadedatos.salud@gmail.com)
 ## 📝 Licencia
 
 Todo el contenido de este repositorio está protegido bajo la licencia [MIT](LICENSE).
