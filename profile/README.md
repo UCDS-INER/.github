@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio oficial de la **Unidad de Ciencia de Datos en Salud del INER**. Aquí encontrarás la documentación de los trabajos realizados por nuestra unidad, papers publicados y cursos diseñados especialmente para nuestros colaboradores.
 
-![Logo del INER](https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/360175661_742887064513763_4496350647158032736_n.jpg?stp=dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=754033&_nc_ohc=Vk9JOc43guMAX-6vIGA&_nc_ht=scontent-lax3-2.xx&oh=00_AfA5nemeKygGVj7TGhG5McJRKIBkbxDDLBYiFjqzxs-CQA&oe=651804C4)
+
 
 ## 📚 Documentación
 
