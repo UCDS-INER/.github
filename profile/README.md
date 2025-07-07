@@ -8,7 +8,7 @@ Bienvenidos al repositorio oficial de la **Unidad de Ciencia de Datos en Salud d
 
 La documentación de los proyectos que hemos llevado a cabo es esencial para mantener la transparencia y el entendimiento de nuestros procesos. Aquí podrás encontrar desde metodologías hasta resultados finales.
 
-- [Mineria ECE](#)
+- [Economia de la Salud](#)
 - ... 
 
 ## 🤝 Colabora con Nosotros
