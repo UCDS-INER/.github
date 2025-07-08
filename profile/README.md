@@ -1,6 +1,6 @@
 # Unidad de Ciencia de Datos en Salud del Insituto Nacional Enfermedades Respiratorias
 
-<img src="https://github.com/UCDS-INER/.github/blob/main/assets/Banner%201.png" alt="Alt text" width="85%" height="auto">
+<img src="https://github.com/UCDS-INER/.github/blob/main/assets/Banner%201.png" alt="Alt text" width="95%" height="auto">
 
 Bienvenidos al repositorio oficial de la **Unidad de Ciencia de Datos en Salud del INER**. Aquí encontrarás la documentación de los trabajos realizados por nuestra unidad, papers publicados y cursos diseñados especialmente para nuestros colaboradores.
 
