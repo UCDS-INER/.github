@@ -11,6 +11,7 @@ Bienvenidos al repositorio oficial de la **Unidad de Ciencia de Datos en Salud d
 La documentación de los proyectos que hemos llevado a cabo es esencial para mantener la transparencia y el entendimiento de nuestros procesos. Aquí podrás encontrar desde metodologías hasta resultados finales.
 
 - [![Repo](https://img.shields.io/badge/Econom%C3%ADa%20en%20Salud-repo-blue?logo=github)](https://github.com/UCDS-INER/economia_salud)
+- [![Repo](https://img.shields.io/badge/n8nmoodle-repo-blue?logo=github)](https://github.com/UCDS-INER/n8n-moodle)
 
 ## 🤝 Colabora con Nosotros
 
