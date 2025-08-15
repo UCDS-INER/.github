@@ -17,7 +17,6 @@ La documentación de los proyectos que hemos llevado a cabo es esencial para man
 
 Si estás interesado en colaborar con nuestra unidad o tienes alguna propuesta, no dudes en contactarnos a través de [nuestro correo](mailto:cienciadedatos.salud@gmail.com)
 
-<img src="https://github.com/UCDS-INER/.github/blob/main/assets/Banner%201.png" alt="Alt text" width="auto%" height="50%">
 
 
 ## 📝 Licencia
